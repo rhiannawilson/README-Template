@@ -42,16 +42,16 @@ Refer to this demonstration to use the application successfully
 
 > ## Command Line 
 > > #### Generated README.md File
-![Template Image](../assets/images/README%20template%20file.png)
+![Template Image](./assets/images/README_template_file.png)
 
 > > #### Command Line Questionnaire 
-![README file questions Image](../assets/images/CLI%20-%20README%20file%20questions.png)
+![README file questions Image](./assets/images/README_file_questions.png)
 
 > > #### Inquirer Package, JSON Dependencies
-![Inquirer Package Image](../assets/images/Dependencies%20-%20Inquirer%20Package.png)
+![Inquirer Package Image](./assets/images/Dependencies-Inquirer-Package.png)
 
 > > #### generateMarkdown.js File 
-![JavaScript, Generate Markdown File Image](../assets/images/generateMarkDown%20file.png)
+![JavaScript, Generate Markdown File Image](./assets/images/generateMarkDown_file.png)
 
 > ## Credits
 N/A
