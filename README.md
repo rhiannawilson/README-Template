@@ -5,7 +5,7 @@ This README text file was created using Node and Inquirer 8.2.4. This app will a
 ## Getting Started
 Refer to this demonstration to use the application successfully 
 > SOUND ON 🔊
-> - ![Video demo]
+> - ![Video demo] https://drive.google.com/file/d/1BuR-5ZlmJ12EHEKqr75MSGS_ktvNwC7d/view?usp=sharing 
 
 
 > ### User Story
